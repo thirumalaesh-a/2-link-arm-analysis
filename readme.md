@@ -1,4 +1,4 @@
-**A BASIC STUDY ON ROBOT ARM MANIPULATION**
+**A BASIC STUDY ON ROBOT ARM MANIPULATION**  
 This code was written sometime around 2021, as a tool to better understand robot arm kinematics and manipulation. 
 
 ```
